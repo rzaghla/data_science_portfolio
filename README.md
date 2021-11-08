@@ -10,3 +10,6 @@ Welcome to my data science project portfolio!
 2. [Investigating Netflix Movies](https://github.com/rzaghla/data_science_portfolio/blob/main/Investigating%20Netflix%20Movies.ipynb)
 3. [Exploring the History of LEGO](https://github.com/rzaghla/data_science_portfolio/blob/main/Exploring%20the%20History%20of%20LEGO.ipynb)
 4. [Predicting Credit Card Approval](https://github.com/rzaghla/data_science_portfolio/blob/main/Prediciting%20Credit%20Card%20Approval.ipynb)
+
+## Dashboard with Dash 
+### Coming Soon!
